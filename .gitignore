@@ -1,0 +1,23 @@
+# Go binary outputs
+*.exe
+*.out
+*.test
+/01-calculator/starter/calculator
+/01-calculator/solution/calculator
+
+# Vendor directory
+/vendor/
+
+# Node modules
+node_modules/
+
+# IDE configs
+.idea/
+.vscode/
+
+# Build output
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
